@@ -3,8 +3,8 @@ using namespace std;
 
 int main() {
 	int a;
-	cout<<"enter the value:"<<endl;
-	cin>>a;
+	//cout<<"enter the value:"<<endl;
+	cin>>a>>endl;
 	if(a<0)
 	{
 		cout<<"negative";
