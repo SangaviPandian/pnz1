@@ -4,7 +4,7 @@ using namespace std;
 int main() {
 	int a;
 	//cout<<"enter the value:"<<endl;
-	cin>>a>>endl;
+	cin>>a;
 	if(a<0)
 	{
 		cout<<"negative";
